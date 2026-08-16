@@ -22,3 +22,20 @@ Exploratory data analysis and linear regression using the California Housing dat
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
 [View project](./california_housing_analysis/)
+
+### CIFAR-10 Image Classification with FNN and CNN
+
+Image classification using the CIFAR-10 dataset, comparing a feedforward neural network (FNN) baseline with a convolutional neural network (CNN).
+
+**Topics:**
+
+- Image preprocessing and one-hot encoding
+- Feedforward neural network (FNN)
+- Convolutional neural network (CNN)
+- Training and validation performance analysis
+- Overfitting diagnosis using learning curves
+- Early stopping and model comparison
+
+**Tools:** Python, NumPy, Matplotlib, TensorFlow, Keras
+
+[View project](./CIFAR-10-NN/)
