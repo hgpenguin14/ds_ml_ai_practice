@@ -39,3 +39,22 @@ Image classification using the CIFAR-10 dataset, comparing a feedforward neural 
 **Tools:** Python, NumPy, Matplotlib, TensorFlow, Keras
 
 [View project](./CIFAR-10-NN/)
+
+### Fashion-MNIST Representation Learning and Classification
+
+Representation learning and image classification using the Fashion-MNIST dataset, comparing SOM, RBM, and VAE for dimensionality reduction and latent feature extraction.
+
+**Topics:**
+
+- Image preprocessing and feature normalization
+- Self-Organizing Map (SOM) representation learning
+- Restricted Boltzmann Machine (RBM) feature extraction
+- Variational Autoencoder (VAE) with reparameterization
+- Image reconstruction from latent representations
+- Random Forest and AdaBoost classification
+- Classification performance and computational efficiency comparison
+- VAE stability analysis with repeated training experiments
+
+**Tools:** Python, NumPy, Pandas, Matplotlib, TensorFlow, Keras, scikit-learn, MiniSom
+
+[View project](Fashion-MNIST/Fashion-MNIST-VAE.ipynb)
