@@ -59,7 +59,7 @@ Regression modeling on the California Housing dataset, comparing a linear regres
 
 [View project](./XGBoost/)
 
-### California Housing Price Prediction
+### California Housing Price Prediction with MLR
 
 Exploratory data analysis and linear regression using the California Housing dataset.
 
