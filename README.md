@@ -6,23 +6,6 @@ The projects in this repository have been reviewed and reorganized to focus on t
 
 ## Projects
 
-### California Housing Price Prediction
-
-Exploratory data analysis and linear regression using the California Housing dataset.
-
-**Topics:**
-
-- Data exploration with Pandas
-- Correlation analysis and visualization
-- Linear regression
-- Feature selection and multicollinearity
-- Model evaluation using MAE, RMSE, and R²
-- Comparison of single-feature, baseline, and reduced models
-
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-
-[View project](./california_housing_analysis/)
-
 ### CIFAR-10 Image Classification with FNN and CNN
 
 Image classification using the CIFAR-10 dataset, comparing a feedforward neural network (FNN) baseline with a convolutional neural network (CNN).
@@ -58,3 +41,37 @@ Representation learning and image classification using the Fashion-MNIST dataset
 **Tools:** Python, NumPy, Pandas, Matplotlib, TensorFlow, Keras, scikit-learn, MiniSom
 
 [View project](Fashion-MNIST/Fashion-MNIST-VAE.ipynb)
+
+### California Housing Price Prediction with XGBoost
+
+Regression modeling on the California Housing dataset, comparing a linear regression baseline with XGBoost and analyzing the effects of key boosting hyperparameters.
+
+**Topics:**
+
+- Regression modeling and train/test evaluation
+- Linear regression baseline
+- XGBoost regression
+- MAE and MSE model comparison
+- Ensemble size analysis
+- Learning rate analysis and hyperparameter tuning
+
+**Tools:** Python, Pandas, Matplotlib, scikit-learn, XGBoost
+
+[View project](./XGBoost/)
+
+### California Housing Price Prediction
+
+Exploratory data analysis and linear regression using the California Housing dataset.
+
+**Topics:**
+
+- Data exploration with Pandas
+- Correlation analysis and visualization
+- Linear regression
+- Feature selection and multicollinearity
+- Model evaluation using MAE, RMSE, and R²
+- Comparison of single-feature, baseline, and reduced models
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+
+[View project](./california_housing_analysis/)
